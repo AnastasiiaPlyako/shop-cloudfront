@@ -1,7 +1,7 @@
-# React-shop-cloudfront
 # Result second task:
-s3:
+s3: http://bucket-test-serverless-second-plyako.s3-website-eu-west-1.amazonaws.com
 
+CloudFront URL: https://ddrt9h3m47iz9.cloudfront.net
 
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
