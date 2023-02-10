@@ -1,4 +1,7 @@
-# Result second task:
+# The idea 
+The idea of the online store is to collect attractions from different countries in one place.
+## Result second task:
+
 s3: http://bucket-test-serverless-second-plyako.s3-website-eu-west-1.amazonaws.com
 
 CloudFront URL: https://ddrt9h3m47iz9.cloudfront.net
